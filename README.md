@@ -3,6 +3,8 @@ XKCDBook
 
 Most people understand HTML/CSS/JS but have never worked with Chrome Extensions. I wanted to make it easier for others to get started with a relavent project. This is to show how HTML can be injected into the top of the group. I hope others will make more interesting things in forks.
 
+#Instructions
+![Instructions](instructions.png)
 #Fork Ideas
 - Upcoming Hackathons (Maybe even have a "Who's going?" that gets it's data from a Post with a poll.")
 - Members Search (Powered by something like https://github.com/hshackers/docs/blob/master/members.csv)
