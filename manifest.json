@@ -1,0 +1,13 @@
+{
+   "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/groups/*"],
+      "js": ["jquery.js", "background.js"]
+    }
+  ],
+   "description": "Facebook Pages Hacker Tool. This is to show how HTML can be injected into the top of the group. I hope others will make more interesting things in forks.",
+   "name": "XKCDBook",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "manifest_version": 2
+}
